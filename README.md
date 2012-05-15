@@ -60,10 +60,6 @@ Parser output:
 .<INT:2>
 ```
 
-<table>
-  <tr>
-    <td>
-
 Parser output w/ top down logging:
 
 ```
@@ -95,9 +91,6 @@ TDN: Rn -> '<INTEGER>'
 .<INT:2>
 ```
 
-    </td>
-    <td>
-
 Parser output w/ bottom up logging:
 
 ```
@@ -128,10 +121,6 @@ BUP: E -> Ew
 .<INT:2>
 .<INT:2>
 ```
-
-    </td>
-  </tr>
-</table>
 
 Design
 ------
